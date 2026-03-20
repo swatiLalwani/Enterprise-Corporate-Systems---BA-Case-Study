@@ -131,5 +131,3 @@ Apr 2024   →  Deployment → Project Retrospective
 *QA Test Plan v1.0 | January–April 2024*
 
 ---
-
-> *This case study was developed as a structured BA portfolio project demonstrating end-to-end requirements and test planning for a multi-module enterprise platform.*
